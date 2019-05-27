@@ -1,6 +1,6 @@
 Name     : rabbitmq-java-client-dep
 Version  : 5.7.0
-Release  : 1
+Release  : 2
 URL      : https://repo.maven.apache.org/maven2
 Summary  : No detailed summary available
 Group    : Development/Tools
